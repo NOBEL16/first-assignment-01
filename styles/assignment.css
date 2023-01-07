@@ -1,0 +1,49 @@
+.header{ 
+    
+    text-align: right ;
+   width: 1700px;
+   height: 800px;
+    background: url('../banner/banner3.png');
+  
+}
+.header-color{
+    font-size: 50px;
+    color:aliceblue;
+    padding-right: 90px;
+    padding-top: 60px;
+}
+.para{
+    padding-right: 90px;
+    padding-top: 90px;
+}
+.btn{
+   
+  color: red;
+    font-size: 30px;
+}
+
+.row{
+text-align: center;
+font-size: 50px;
+}
+.justify{
+    text-align:center;
+   font-size: 20px;
+
+}
+.ondhokar{
+    text-align: center;
+  
+}
+.big{
+    font-size: 50px;
+}
+.about{
+   
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    font-size: 20px;
+}
